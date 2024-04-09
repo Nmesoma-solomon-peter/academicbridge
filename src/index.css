@@ -1,0 +1,26 @@
+body{
+  overflow-x: hidden !important;
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  font-family: Inter, sans-serif;
+
+}
+
+.container-fluid{
+  padding-left: 10em;
+  padding-right: 10em;
+}
+a{
+  text-decoration: none;
+}
+
+@media (max-width: 768px) {
+  /* Styles for mobile screens */
+  .container-fluid {
+    padding-left: 2em;
+    padding-right: 2em;
+  }
+}

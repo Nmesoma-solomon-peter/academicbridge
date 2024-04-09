@@ -1,0 +1,42 @@
+.footersection1{
+    background-color: #F9F8FB;
+    background-image: linear-gradient(#ffff, #f0eff5);
+
+}
+.social-icons{
+    /* background-color: #fff; */
+    /* position: relative; or absolute */
+    justify-content: center;
+    text-align: right;
+}
+.social-icon{
+    background-color: #fff;
+    font-size: 1.5em;
+    margin: 0em 0.5em 0em 0.5em;
+}
+.hrline{
+    margin-top:50px;
+}
+.footersection2{
+    background-color: #F0EFF5;
+}
+.about-us-paragraph{
+    padding-right: 2em
+}
+.mid-content{
+    justify-content: center;
+}
+.copyright{
+    text-align: center;
+    padding-top: 1.5em;
+    padding-bottom: 1.5em;
+}
+.sec1row2{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    padding-top: 1.5em;
+}
+.footerlink{
+    color:black
+}

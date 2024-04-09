@@ -1,0 +1,28 @@
+.logo{
+    height: 70px;
+}
+/* .nav-item{
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 18px;
+} */
+
+.nav-item .nav-link {
+    /* position: relative; */
+    color: #000;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 18px;
+}
+.nav-item .nav-link:hover{
+    color: #0058a9 !important;
+}
+.rounded-btn{
+    font-size: 14px;
+    /* height: 45px; */
+    width: 120px;
+    border-radius: 30px;
+    text-align: center;
+    /* padding: 1% 10%; */
+    /* font-weight: bold; */
+}
