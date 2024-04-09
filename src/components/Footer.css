@@ -40,3 +40,13 @@
 .footerlink{
     color:black
 }
+
+@media (max-width: 768px) {
+    /* Styles for mobile screens */
+   .about-us-paragraph{
+    padding-right: 0;
+    /* width: 00%; */
+   }
+  }
+  
+

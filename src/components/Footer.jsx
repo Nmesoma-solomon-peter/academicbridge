@@ -26,11 +26,11 @@ function Footer() {
             {/* ------------------------section 2 start--------------------------------- */}
             <div className='footersection2'>
                 <div className='row container-fluid'>
-                    <div className='col col-md-4'>
+                    <div className='col col-md-4 col-sm-12'>
                         <h4>About Us</h4>
                         <p className='about-us-paragraph'>We are EdTech company specializing in providing customized digital solutions for academic and tertiary institutions across sub Saharan Africa through our schools information management system "Academic Bridge"</p>
                     </div>
-                    <div className='col col-md-4 mid-content'>
+                    <div className='col col-md-4 4 col-sm-12 mid-content'>
                         <h4>Other Pages</h4>
                         <div>
                             <p>
@@ -52,7 +52,7 @@ function Footer() {
 
                         <p> <a href=''> <i class="bi bi-laptop-fill"></i> <span className='footerlink'>Register your School </span> </a> </p>
                     </div>
-                    <div className='col col-md-4'>
+                    <div className='col col-md-4 4 col-sm-12'>
                         <h4>Contact Us</h4>
                         <p><a href=''><i class="bi bi-globe2"></i> <span className='footerlink'>www.academicbridge.xyz</span>
                         </a> </p>
