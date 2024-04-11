@@ -13,10 +13,10 @@ function Footer() {
                     </div>
                     <div className='col col-md-6 '>
                         <div className='social-icons sec1row2'>
-                            <i class="bi social-icon  bi-twitter"></i>
-                            <i class="bi social-icon bi-linkedin"></i>
-                            <i class="bi social-icon bi-youtube"></i>
-                            <i class="bi social-icon bi-facebook"></i>
+                            <a href="https://twitter.com/academic_bridge"> <i class="bi social-icon  bi-twitter"></i> </a>
+                            <a href="https://www.linkedin.com/company/academic-bridge"><i class="bi social-icon bi-linkedin"></i> </a>
+                            <a href="https://www.youtube.com/@academicbridge3367"><i class="bi social-icon bi-youtube"></i></a>
+                            <a href="https://www.facebook.com/academicbridgeApp"> <i class="bi social-icon bi-facebook"></i> </a>
                         </div>
                     </div>
                     <hr className='hrline' />

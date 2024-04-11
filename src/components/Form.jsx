@@ -15,28 +15,28 @@ function Form() {
                             <div class="col-sm-6">
                                 {/* <!-- Single Form Start --> */}
                                 <div class="single-form">
-                                    <input type="text" placeholder="Name *"  name='name'/>
+                                    <input type="text" placeholder="Name *"  name='name' required/>
                                 </div>
                                 {/* <!-- Single Form End --> */}
                             </div>
                             <div class="col-sm-6">
                                 {/* <!-- Single Form Start --> */}
                                 <div class="single-form">
-                                    <input type="email" placeholder="Email *" name='email' />
+                                    <input type="email" placeholder="Email *" name='email' required/>
                                 </div>
                                 {/* <!-- Single Form End --> */}
                             </div>
                             <div class="col-sm-12">
                                 {/* <!-- Single Form Start --> */}
                                 <div class="single-form">
-                                    <input type="text" placeholder="Subject *" name='subject' />
+                                    <input type="text" placeholder="Subject *" name='subject' required/>
                                 </div>
                                 {/* <!-- Single Form End --> */}
                             </div>
                             <div class="col-sm-12">
                                 {/* <!-- Single Form Start --> */}
                                 <div class="single-form">
-                                    <textarea placeholder="Write A Message" spellcheck="false" name='message'></textarea>
+                                    <textarea placeholder="Write A Message" spellcheck="false" name='message' required></textarea>
                                 </div>
                                 {/* <!-- Single Form End --> */}
                             </div>
